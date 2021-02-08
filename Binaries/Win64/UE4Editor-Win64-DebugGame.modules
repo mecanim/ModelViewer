@@ -1,0 +1,8 @@
+{
+	"BuildId": "8386587",
+	"Modules": 
+	{
+		"libassimp": "UE4Editor-libassimp-Win64-DebugGame.dll",
+		"ModelViewer": "UE4Editor-ModelViewer-Win64-DebugGame.dll"
+	}
+}
